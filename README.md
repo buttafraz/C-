@@ -1,2 +1,0 @@
-# C-
-Fundamentals of c++
